@@ -1,5 +1,5 @@
 # langchain_vectordb_course
-Repository for notebooks created as part of [LangChain & Vector Databases in Production](learn.activeloop.ai) course
+Repository for notebooks created as part of [LangChain & Vector Databases in Production](https://learn.activeloop.ai) course
 
 ## Modules
-[Langchain101.ipynb](github.com/jkpage00/langhainc_vectordb_course/Langchain101.ipynb)
+[Langchain101.ipynb](https://github.com/jkpage00/langchain_vectordb_course/blob/main/Langchain101.ipynb)
